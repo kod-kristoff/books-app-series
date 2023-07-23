@@ -1,0 +1,10 @@
+[workspace]
+members = [  
+  "common",
+  "database",
+  "kafka",
+  "books_api",
+  "books_analytics",
+]
+
+[workspace.dependencies]
